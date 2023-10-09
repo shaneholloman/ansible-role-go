@@ -1,6 +1,6 @@
 # Ansible Role: Go
 
-[![CI](https://github.com/shaneholloman-org/ansible-role-go/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman-org/ansible-role-go/actions/workflows/ci.yml)
+[![CI](https://github.com/shaneholloman/ansible-role-go/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-go/actions/workflows/ci.yml)
 
 An Ansible Role that installs Go (the language) on Linux.
 
@@ -44,4 +44,3 @@ MIT / BSD
 ## Author Information
 
 This role was created in 2023
-
